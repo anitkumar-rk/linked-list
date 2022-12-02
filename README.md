@@ -1,2 +1,2 @@
 # linked-list
-This project is created in .NEt framework 7
+This project is created in .NET framework 7
